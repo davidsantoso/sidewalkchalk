@@ -2,8 +2,8 @@
   "name": "sidewalkchalk",
   "theme": "syntax",
   "version": "0.0.1",
-  "description": "A short description of your syntax theme",
-  "repository": "https://github.com/atom/my-theme",
+  "description": "Port of the Sidewalk Chalk Textmate theme",
+  "repository": "https://github.com/davidsantoso/sidewalkchalk",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
